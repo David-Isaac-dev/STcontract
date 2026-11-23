@@ -724,3 +724,6 @@ MIT
 
 <!-- handsoff-issue-104 -->
 - #104: Add explicit subscription renewal transactions
+
+<!-- handsoff-issue-105 -->
+- #105: Enforce subscription expiry in enrollment read queries
