@@ -721,3 +721,6 @@ MIT
 
 <!-- handsoff-issue-103 -->
 - #103: Add an explicit paid subscription enrollment entrypoint
+
+<!-- handsoff-issue-104 -->
+- #104: Add explicit subscription renewal transactions
