@@ -715,3 +715,6 @@ MIT
 
 <!-- handsoff-issue-146 -->
 - #146: Add invariant tests for accounting and multi-sig safety
+
+<!-- handsoff-issue-102 -->
+- #102: Add persistent records for subscription enrollments
