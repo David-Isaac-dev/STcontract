@@ -718,3 +718,6 @@ MIT
 
 <!-- handsoff-issue-102 -->
 - #102: Add persistent records for subscription enrollments
+
+<!-- handsoff-issue-103 -->
+- #103: Add an explicit paid subscription enrollment entrypoint
